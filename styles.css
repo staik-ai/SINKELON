@@ -118,7 +118,7 @@ section:nth-of-type(even) {
 }
 
 section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #4b628d;
   display: flex;
   justify-content: center;
   align-items: center;
