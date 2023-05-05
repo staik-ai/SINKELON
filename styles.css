@@ -1,13 +1,13 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #fcf9f4;
-  color: #222;
+  background-image: linear-gradient(to bottom right, #1a1a1a, #1f2d51);
+  color: #fff;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #fff;
+  background-color: #1f2d51;
   padding: 20px;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
@@ -27,7 +27,7 @@ li {
 }
 
 a {
-  color: #222;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -102,11 +102,11 @@ li img {
 }
 
 section:nth-of-type(even) {
-  background-color: #fff;
+  background-color: #1f2d51;
 }
 
 section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #212f55;
 }
 
 @media (max-width: 768px) {
