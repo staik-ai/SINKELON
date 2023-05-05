@@ -110,7 +110,7 @@ li img {
 }
 
 section:nth-of-type(even) {
-  background-color: #fff;
+  background-color: #100a6e;
   display: flex;
   justify-content: center;
   align-items: center;
